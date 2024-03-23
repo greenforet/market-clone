@@ -19,7 +19,7 @@ body{
     opacity: 0;
 }
 
-@media screen and (min-width:400px){
+@media screen and (min-width:500px){
     .media-info-msg{
         opacity: 1;
     }
